@@ -1,5 +1,5 @@
 # EX 33 C program to read a file name from user and create that file using fopen().
-## DATE:20/05/2025
+## DATE:26/06/2026
 ## AIM:
 To write a C program to read a file name from user and create that file using fopen().
 
